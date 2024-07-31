@@ -9,5 +9,5 @@ const combo1 = 20-10;
 const combo2 = 400/10;
 const combo3 = 13*3;
 
-// create an alert dialog box displaying the string text and complete combination
+// create an alert dialog box displaying the string text and complete combination via string concatenation
 alert(`${string}${combo1}-${combo2}-${combo3}`)
